@@ -12,6 +12,9 @@ function soloNumeros(array) {
 
   // Tu código aca:
 
+  return array.filter(Number)
+
+
 }
 
 // No modifiques nada debajo de esta linea //
